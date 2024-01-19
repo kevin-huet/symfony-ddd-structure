@@ -8,7 +8,7 @@
             "ref": "0b4a11ee7e60b36227502ed26874edd7e8b66353"
         },
         "files": [
-            "config/packages/doctrine.yaml",
+            "config/packages/doctrine.yaml"
         ]
     },
     "doctrine/doctrine-fixtures-bundle": {
@@ -31,7 +31,7 @@
             "ref": "1d01ec03c6ecbd67c3375c5478c9a423ae5d6a33"
         },
         "files": [
-            "config/packages/doctrine_migrations.yaml",
+            "config/packages/doctrine_migrations.yaml"
         ]
     },
     "ramsey/uuid-doctrine": {
